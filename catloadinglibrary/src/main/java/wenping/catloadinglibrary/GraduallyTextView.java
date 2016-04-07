@@ -134,7 +134,6 @@ public class GraduallyTextView extends EditText {
         }
     }
 
-
     @Override protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         if (!isStop) {
